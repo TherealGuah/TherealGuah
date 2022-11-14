@@ -2,6 +2,7 @@
 ### Hello there 👋
 - 🔭 I’m currently working on my career change into Software Development
 -  📫 How to reach me: pfechadonunes@gmail.com
+-  :smiley: Passionate about: :book: :space_invader: :game_die:
 
 <!--
 **TherealGuah/TherealGuah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
