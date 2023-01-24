@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 
 ### Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TherealGuah&theme=github-dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TherealGuah&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TherealGuah&show_icons=true&theme=merko)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TherealGuah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
