@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
+---
 ### Stats :
 [![GitHub Streak](https://streak-stats.demolab.com/?user=TherealGuah&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 ---
