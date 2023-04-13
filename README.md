@@ -2,7 +2,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 - 🔭 iO Academy's Full Stack Development Graduate - 2022 August Hawk's Cohort
-- 🌱 I’m currently learning PHP, OOP and several design patterns
+- 🌱 I’m currently learning Laravel
 -  📫 How to reach me: pfechadonunes@gmail.com
 -  :smiley: Passionate about: :book: :space_invader: :game_die:
 
