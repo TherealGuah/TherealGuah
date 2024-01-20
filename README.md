@@ -3,7 +3,7 @@
 
 - 🔭 iO Academy's Full Stack Development Graduate - 2022 August Hawk's Cohort
 - 🌱 I’m currently learning Laravel
--  📫 How to reach me: pfechadonunes@gmail.com
+-  📫 How to reach me: pedrofechado@gmail.com
 -  :smiley: Passionate about: :book: :space_invader: :game_die:
 
 <!--
